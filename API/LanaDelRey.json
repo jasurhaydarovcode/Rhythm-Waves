@@ -1,0 +1,21 @@
+{
+    "name": "Lana Del Rey",
+    "bio": "Elizabeth Woolridge Grant, known professionally as Lana Del Rey, is an American singer and songwriter. Her music is noted for its cinematic quality and exploration of tragic romance, glamour, and melancholia, with frequent references to pop culture and 1950s–1970s Americana.",
+    "songs": [
+        {
+            "title": "Born To Die",
+            "image": "https://i.ytimg.com/vi/Bag1gUxuU0g/maxresdefault.jpg",
+            "audio": ""
+        },
+        {
+            "title": "Summertime Sadness",
+            "image": "https://i1.sndcdn.com/artworks-000017607589-4tl049-t1080x1080.jpg",
+            "audio": ""
+        },
+        {
+            "title": "Young and Beautiful",
+            "image": "https://i.ytimg.com/vi/o_1aF54DO60/maxresdefault.jpg",
+            "audio": ""
+        }
+    ]
+}

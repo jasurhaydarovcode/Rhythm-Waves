@@ -1,0 +1,21 @@
+{
+    "name": "BLACKPINK",
+    "bio": "BLACKPINK is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa. They are known for their powerful performances and global hits like 'Kill This Love' and 'How You Like That'.",
+    "songs": [
+        {
+            "title": "Kill This Love",
+            "image": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-09-at-1.30.37-PM.png",
+            "audio": "./data/music/BLACKPINK/KillThisLove.mp3"
+        },
+        {
+            "title": "How You Like That",
+            "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/07/Blackpink-HowYouLike-Dance.jpg",
+            "audio": "path-to-how-you-like-that.mp3"
+        },
+        {
+            "title": "DDU-DU DDU-DU",
+            "image": "https://i.ytimg.com/vi/IHNzOHi8sJs/maxresdefault.jpg",
+            "audio": "path-to-ddu-du-ddu-du.mp3"
+        }
+    ]
+}

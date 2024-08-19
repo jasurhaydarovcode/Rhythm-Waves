@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist Page</title>
+    <link href="./CSS/.cache/output.css" rel="stylesheet">
+    <link rel="stylesheet" href="./CSS/custom-audio.css">
+    <link rel="stylesheet" href="./CSS/custom-img.css">
+</head>
+
+<body class="bg-gray-900 text-white">
+
+    <div class="container mx-auto py-10">
+        <!-- Go Back Button -->
+        <div class="mb-8">
+            <button onclick="goBack()"
+                class="bg-gray-700 text-white px-4 py-2 rounded-md hover:bg-gray-600 focus:outline-none">
+                Go Back
+            </button>
+        </div>
+
+        <h1 id="artistName" class="text-4xl font-bold text-center mb-8"></h1>
+
+        <!-- Artist Information -->
+        <div id="artistInfo" class="bg-gray-800 p-5 rounded-lg shadow-md mb-8">
+            <!-- Artist information will be injected here by JavaScript -->
+        </div>
+
+        <!-- Songs -->
+        <div id="songs" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Songs will be injected here by JavaScript -->
+        </div>
+    </div>
+
+    <script src="./JS/artist/all.js"></script>
+
+</body>
+
+</html>

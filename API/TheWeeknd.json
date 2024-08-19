@@ -1,0 +1,21 @@
+{
+    "name": "The Weeknd",
+    "bio": "The Weeknd, born Abel Tesfaye, is a Canadian singer, songwriter, and record producer. Known for his sonic versatility and dark lyricism, The Weeknd has achieved global success with hits like 'Blinding Lights' and 'Starboy'.",
+    "songs": [
+        {
+            "title": "Blinding Lights",
+            "image": "https://i.ytimg.com/vi/fHI8X4OXluQ/maxresdefault.jpg",
+            "audio": "path-to-blinding-lights.mp3"
+        },
+        {
+            "title": "Save Your Tears",
+            "image": "https://i.ytimg.com/vi/XXYlFuWEuKI/maxresdefault.jpg",
+            "audio": "path-to-save-your-tears.mp3"
+        },
+        {
+            "title": "Playboi Carti Madonna",
+            "image": "https://i.ytimg.com/vi/vt0i6nuqNEo/sddefault.jpg",
+            "audio": "./data/music/The Weeknd/Playboi Carti_ Madonna.mp3"
+        }
+    ]
+}

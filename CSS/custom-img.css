@@ -1,0 +1,8 @@
+/* Custom styles for images */
+img {
+    width: 100%;
+    height: 200px;
+    /* Adjust this value to fit your design */
+    object-fit: cover;
+    /* Ensures images cover the element's box, maintaining aspect ratio */
+}

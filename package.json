@@ -1,0 +1,22 @@
+{
+  "name": "rhythm-waves",
+  "version": "1.0.0",
+  "description": "Rhythm Waves Music Website",
+  "main": "index.js",
+  "scripts": {
+    "twind": "npx tailwindcss -i ./CSS/global.css -o ./CSS/.cache/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurhaydarovcode/Rhythm-Waves.git"
+  },
+  "author": "jasurhaydarovcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurhaydarovcode/Rhythm-Waves/issues"
+  },
+  "homepage": "https://github.com/jasurhaydarovcode/Rhythm-Waves#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
